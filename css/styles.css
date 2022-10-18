@@ -155,7 +155,7 @@ a.white {
 	border: 0.125rem solid #00c9db;
 	border-radius: 2rem;
 	background-color: #00c9db;
-	color: #fff;
+	color: #640643;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
@@ -645,7 +645,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 113px;
+    width: 160px;
 	height: 34px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
@@ -1791,7 +1791,7 @@ a:hover.back-to-top {
 	}
 
 	.header .text-container {
-		margin-top: 6.5rem;
+		margin-top: 4.5rem;
 	}
 	/* end of header */
 
@@ -1965,7 +1965,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .text-container {
-		margin-top: 7.5rem;
+		margin-bottom: 7.5rem;
 		margin-left: 2.5rem;
 	}
 
